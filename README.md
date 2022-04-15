@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shelbycodes0
+- 🤩 I’m interested in Front End Development, User Experience and User Interface.
+- 📚 I’m currently learning with @SheCodes!
+- 🪐 How to reach me: shelbycodes@gmail.com
