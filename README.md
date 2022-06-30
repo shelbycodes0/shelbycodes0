@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shelbycodes0
+- 👋 Hi, I’m @shelbycodes0 (ShelbyCodes)
 - 🤩 I’m interested in Front End Development, User Experience and User Interface.
-- 📚 I’m currently learning with @SheCodes!
+- 🎓 I recently graduated from Front End Development, Responsive Web Development, and React Development with SheCodes!
+- 📚 Currently I'm learning Python with The App Brewery and React Native with RallyCoding.
 - 🪐 How to reach me: shelbycodes@gmail.com
