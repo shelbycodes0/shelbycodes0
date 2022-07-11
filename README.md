@@ -4,3 +4,5 @@
 - 📚 Currently I'm learning Python with The App Brewery and React Native with RallyCoding.
 - 👩‍💻 Most of my projects loaded here are still in progress. 
 - 🪐 How to reach me: shelbycodes@gmail.com
+
+Check out my portfolio: https://shelbycodes.me
